@@ -13,6 +13,7 @@ interface card {
 
 const DealOfTheDay: React.FC = () => {
   const [card, setCard] = React.useState<card[]>([]);
+  const [Dcard, setDCard] = React.useState<card[]>([]);
 
   React.useEffect(() => {
     fetch('https://localhost:44311/api/CustomerWeb/GetValue')
