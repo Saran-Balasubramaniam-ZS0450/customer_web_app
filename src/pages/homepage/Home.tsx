@@ -4,7 +4,7 @@ import * as React from "react";
 import DealOfTheDay from "../../components/dealOfTheDay/DealOfTheDay";
 import image from "../../assets/home.png";
 
-const Home:React.FC=()=> {
+function Home() {
   return (
     <>
       <Header />

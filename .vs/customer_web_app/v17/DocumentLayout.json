@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\React Figma\\customer_web_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|d:\\react figma\\customer_web_app\\customer_web_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|solutionrelative:customer_web_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|d:\\react figma\\customer_web_app\\customer_web_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|solutionrelative:customer_web_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|d:\\react figma\\customer_web_app\\customer_web_app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|solutionrelative:customer_web_app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|d:\\react figma\\customer_web_app\\customer_web_app\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|solutionrelative:customer_web_app\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|d:\\react figma\\customer_web_app\\customer_web_app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE893A14-5FA1-43B9-B1FF-45CB76BC37B6}|customer_web_app\\customer_web_app.csproj|solutionrelative:customer_web_app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\React Figma\\customer_web_app\\customer_web_app\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "customer_web_app\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\React Figma\\customer_web_app\\customer_web_app\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "customer_web_app\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:49:36.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\React Figma\\customer_web_app\\customer_web_app\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "customer_web_app\\WeatherForecast.cs",
+              "ToolTip": "D:\\React Figma\\customer_web_app\\customer_web_app\\WeatherForecast.cs",
+              "RelativeToolTip": "customer_web_app\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:49:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\React Figma\\customer_web_app\\customer_web_app\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "customer_web_app\\appsettings.Development.json",
+              "ToolTip": "D:\\React Figma\\customer_web_app\\customer_web_app\\appsettings.Development.json",
+              "RelativeToolTip": "customer_web_app\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T13:43:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\React Figma\\customer_web_app\\customer_web_app\\appsettings.json",
+              "RelativeDocumentMoniker": "customer_web_app\\appsettings.json",
+              "ToolTip": "D:\\React Figma\\customer_web_app\\customer_web_app\\appsettings.json",
+              "RelativeToolTip": "customer_web_app\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T13:42:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\React Figma\\customer_web_app\\customer_web_app\\Program.cs",
+              "RelativeDocumentMoniker": "customer_web_app\\Program.cs",
+              "ToolTip": "D:\\React Figma\\customer_web_app\\customer_web_app\\Program.cs",
+              "RelativeToolTip": "customer_web_app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:39:36.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

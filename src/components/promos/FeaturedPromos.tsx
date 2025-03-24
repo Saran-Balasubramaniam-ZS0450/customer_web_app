@@ -29,7 +29,7 @@ function FeaturedPromos() {
                 <h5>{details.head}</h5>
                 <h3>{details.body}</h3>
                 <h6>{details.foot}</h6>
-                <button className="explore">Explore</button>
+                <button type="button" className="explore">Explore</button>
               </div>
             ))}
           </div>
