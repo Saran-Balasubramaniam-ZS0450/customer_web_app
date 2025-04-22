@@ -15,7 +15,7 @@ const Header: React.FC = () => {
         <div className="col-5 d-flex justify-content-around align-items-center ">
           <img src={logo} alt="Fresh & Local" />
           <div>
-            <button className="link-button" type="button">
+            <button className="link-button" type="button" aria-label="Shop By Category">
               <span>Shop By Category</span>
               <img title="downarrow" src={downArrow} alt="Down Arrow" />
             </button>
