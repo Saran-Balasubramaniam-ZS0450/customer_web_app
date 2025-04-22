@@ -15,7 +15,7 @@ const Header: React.FC = () => {
         <div className="col-5 d-flex justify-content-around align-items-center ">
           <img src={logo} alt="Fresh & Local" />
           <div>
-            <button className="link-button">
+            <button className="link-button" type="button">
               <span>Shop By Category</span>
               <img title="downarrow" src={downArrow} alt="Down Arrow" />
             </button>
@@ -27,29 +27,29 @@ const Header: React.FC = () => {
 
         <div className="col-5 d-flex justify-content-evenly">
           <div className="col-2">
-            <button className="link-button">
+            <button className="link-button" type="button">
               <img src={search} alt="search" />
               Search
             </button>
           </div>
           <div className="col-3">
-            <button className="link-button">
+            <button className="link-button" type="button">
               <img src={location} alt="location" />
               Handiya 52700
             </button>
           </div>
           <div className="col-1">
-            <button className="link-button">
+            <button className="link-button" type="button">
               <img src={person} alt="Person" />
             </button>
           </div>
           <div className="col-1">
-            <button className="link-button">
+            <button className="link-button" type="button">
               <img src={notification} alt="notification" />
             </button>
           </div>
           <div className="col-1">
-            <button className="link-button">
+            <button className="link-button" type="button">
               <img src={cart} alt="cart" />
             </button>
           </div>
