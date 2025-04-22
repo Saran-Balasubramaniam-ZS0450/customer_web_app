@@ -8,7 +8,7 @@ namespace customer_web_api.Entities
         public int Id { get; set; }
         //title for the card
         public string Title { get; set; }
-        //sub title for the card
+        //subtitle for the card
         public string SubTitle { get;set; }
         //description for the card
         public string Description { get; set; }
