@@ -1,4 +1,3 @@
-
 import logo from "../../assets/logo.png";
 import person from "../../assets/person.svg";
 import notification from "../../assets/notification.png";
@@ -16,44 +15,43 @@ const Header: React.FC = () => {
         <div className="col-5 d-flex justify-content-around align-items-center ">
           <img src={logo} alt="Fresh & Local" />
           <div>
-            <a href="#">
-              {" "}
+            <button className="link-button" type="button" aria-label="Shop By Category">
               <span>Shop By Category</span>
-              <img title="downarrow" src={downArrow} />
-            </a>
+              <img title="downarrow" src={downArrow} alt="Down Arrow" />
+            </button>
           </div>
           <div>
-            <a href="">Explore Farms</a>
+            <button className="link-button">Explore Farms</button>
           </div>
         </div>
 
         <div className="col-5 d-flex justify-content-evenly">
           <div className="col-2">
-            <a href="#">
+            <button className="link-button" type="button">
               <img src={search} alt="search" />
               Search
-            </a>
+            </button>
           </div>
           <div className="col-3">
-            <a href="#">
+            <button className="link-button" type="button">
               <img src={location} alt="location" />
               Handiya 52700
-            </a>
+            </button>
           </div>
           <div className="col-1">
-            <a href="#">
+            <button className="link-button" type="button">
               <img src={person} alt="Person" />
-            </a>
+            </button>
           </div>
           <div className="col-1">
-            <a href="#">
+            <button className="link-button" type="button">
               <img src={notification} alt="notification" />
-            </a>
+            </button>
           </div>
           <div className="col-1">
-            <a href="#">
+            <button className="link-button" type="button">
               <img src={cart} alt="cart" />
-            </a>
+            </button>
           </div>
         </div>
       </div>

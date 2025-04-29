@@ -15,7 +15,7 @@ namespace customer_web_api.Controllers
         [HttpGet,Route("GetPromos")]
         public List<FeaturesPromos> GetPromos()
         {
-           return _context.FeaturesPromos.ToList();
+            return _context.FeaturesPromos.ToList();
         }
 
         [HttpGet,Route("GetValue")]
